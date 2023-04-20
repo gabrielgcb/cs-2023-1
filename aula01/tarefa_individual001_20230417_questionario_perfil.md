@@ -3,7 +3,7 @@
 1. Matrícula: **202105031**
 2. Nome: **Gabriel Guimarães Cordeiro Bispo**
 3. Qual seu conhecimento/experiência em relação ao desenvolvimento de software? **O conhecimento e experiência que possuo em relação ao desenvolvimento de software são os que adquiri na disciplina de Engenharia de Software, em que desenvolvemos um modelo de software para monitoramento de bebês recém-nascidos.**
-4. Quais Linguagens de Programação você domina? **Tenho conhecimentos na linguagens C e JAVA, mas não as domino e sua totalidade.**
+4. Quais Linguagens de Programação você domina? **Tenho conhecimentos na linguagens C e JAVA, mas não as domino em sua totalidade.**
 5. Conhece o paradigma de programação orientado a objetos? **Sim.**
 6. Tem alguma experiência com desenvolvimento de Serviços _Rest_? **Não.**
 7. Tem conhecimento sobre bancos de dados relacionais? **Sim.**

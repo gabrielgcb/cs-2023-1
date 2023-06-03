@@ -1,5 +1,3 @@
-package br.com.abc.teste2;
-
 public class Veterinario {
 
     public void examinar(Animal animal) throws AnimalInvalidoException {

@@ -1,7 +1,3 @@
-package br.com.abc.teste2;
-
-import br.com.abc.teste.*;
-
 public class AnimalTeste {
     public static void main(String[] args) {
         Cachorro cachorro1 = new Cachorro("Bob", 6);
